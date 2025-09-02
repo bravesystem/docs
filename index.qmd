@@ -1,0 +1,26 @@
+---
+title: "BraVe Documentation"
+---
+
+## Introduction
+
+This ~~is~~ will be the technical documentation site for the BraVe system.
+
+
+![](images/Logo with IOM - bluebg.png)
+
+
+
+{{< lipsum 1 >}}
+
+## The approach
+
+This content and layout of this site are guided by the Diataxis approach.
+
+![](images/diataxis.webp)
+
+## Links
+
+## Contact
+
+Still havent found what you're looking for. Contact #@iom.int.
