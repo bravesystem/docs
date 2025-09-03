@@ -1,0 +1,9 @@
+color:
+  palette:
+    dark-grey: "#4BADA9"
+    blue: "#0033A0"
+  primary: blue
+
+logo: 
+  medium: logo.png
+
