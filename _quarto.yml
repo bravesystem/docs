@@ -1,0 +1,26 @@
+project:
+  type: website
+
+brand: _brand.yml
+
+website:
+  title: "BraVe Documentation"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - gettingstarted.qmd
+      - documentation.qmd
+      - community.qmd
+
+format:
+  html:
+    theme:
+      - darkly
+      - brand
+    css: styles.css
+    toc: true
+
+
+
