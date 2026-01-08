@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs/
 
 brand: _brand.yml
 
@@ -9,10 +10,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - gettingstarted.qmd
+      # - about.qmd
+      - getstarted.qmd
       - documentation.qmd
-      - community.qmd
+      # - community.qmd
 
 format:
   html:
@@ -21,6 +22,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-

@@ -1,26 +1,42 @@
 ---
-title: "BraVe Documentation"
+title: "BraVe Documentation Portal"
 ---
 
-## Introduction
+![](images/styled_logo.png)
 
-This ~~is~~ will be the technical documentation site for the BraVe system.
+This is the technical documentation site for BraVe, an open-source tool for humanitarian registration, deduplication, assistance, and referral.
 
+## How to use this portal
 
-![](images/Logo with IOM - bluebg.png)
+To understand how to get up and running with BRaVe, and it's hardware requirements and device compatibility, go to the [Getting Started](/gettingstarted.html) section.
 
-
-
-{{< lipsum 1 >}}
-
-## The approach
-
-This content and layout of this site are guided by the Diataxis approach.
+The how-to guides, tutorials and technical reference material are available in the [Documentation](/documentation.html) page.
+This content and layout of this site are inspired by the Diataxis approach, a framework for technical writing.
 
 ![](images/diataxis.webp)
 
-## Links
+## Feature Roadmap
+
+BRaVe is in active development, is currently undergoing testing, with an initial open-source release planned for April 2026.
+
+## History of BRaVe
+
+The first version of BRaVe, a fully static desktop-based version, was launched in 2014 and has seen continued use since then. More recently a mobile version, internally referred to as BRaVe 2, was piloted. In 2025, development began in BRaVe 3, a comprehensive rearchitecturing and rebuild of the system, replacing both version 2 and 3.
+
+## Useful Links
+
+{{< lipsum 1 >}}
+
+## License
+
+{{< lipsum 1 >}}
+
+## Contributing
+
+{{< lipsum 1 >}}
 
 ## Contact
 
-Still havent found what you're looking for. Contact #@iom.int.
+Still haven't found what you're looking for? Contact [IDPRegistrationSupport@iom.int](mailto://IDPRegistrationSupport@iom.int).
+
+![](images/Logo with IOM - bluebg.png)

@@ -1,24 +1,38 @@
 [
   {
-    "objectID": "gettingstarted.html",
-    "href": "gettingstarted.html",
+    "objectID": "getstarted.html",
+    "href": "getstarted.html",
     "title": "Getting Started",
     "section": "",
-    "text": "…"
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
   },
   {
-    "objectID": "gettingstarted.html#choosing-how-to-use-brave",
-    "href": "gettingstarted.html#choosing-how-to-use-brave",
+    "objectID": "getstarted.html#choosing-how-to-use-brave",
+    "href": "getstarted.html#choosing-how-to-use-brave",
     "title": "Getting Started",
     "section": "",
-    "text": "…"
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
   },
   {
-    "objectID": "gettingstarted.html#installation",
-    "href": "gettingstarted.html#installation",
+    "objectID": "getstarted.html#prerequisites",
+    "href": "getstarted.html#prerequisites",
+    "title": "Getting Started",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "getstarted.html#installation",
+    "href": "getstarted.html#installation",
     "title": "Getting Started",
     "section": "Installation",
-    "text": "Installation\n.."
+    "text": "Installation\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "getstarted.html#hardware-compatibility",
+    "href": "getstarted.html#hardware-compatibility",
+    "title": "Getting Started",
+    "section": "Hardware Compatibility",
+    "text": "Hardware Compatibility\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
   },
   {
     "objectID": "index.html",
@@ -54,20 +68,6 @@
     "title": "BraVe Documentation",
     "section": "Contact",
     "text": "Contact\nStill havent found what you’re looking for. Contact #@iom.int."
-  },
-  {
-    "objectID": "community.html",
-    "href": "community.html",
-    "title": "Community",
-    "section": "",
-    "text": "…"
-  },
-  {
-    "objectID": "community.html#contributing",
-    "href": "community.html#contributing",
-    "title": "Community",
-    "section": "",
-    "text": "…"
   },
   {
     "objectID": "documentation.html",

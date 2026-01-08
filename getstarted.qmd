@@ -1,0 +1,20 @@
+---
+title: "Getting Started"
+---
+
+## Choosing how to use BraVe
+
+{{< lipsum 1 >}}
+
+## Prerequisites
+
+
+{{< lipsum 1 >}}
+
+## Installation
+
+{{< lipsum 1 >}}
+
+## Hardware Compatibility
+
+{{< lipsum 1 >}}
