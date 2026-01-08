@@ -37,37 +37,58 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "BraVe Documentation",
+    "title": "BraVe Documentation Portal",
     "section": "",
-    "text": "This is will be the technical documentation site for the BraVe system.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    "text": "This is the technical documentation site for BraVe, an open-source tool for humanitarian registration, deduplication, assistance, and referral."
   },
   {
-    "objectID": "index.html#introduction",
-    "href": "index.html#introduction",
-    "title": "BraVe Documentation",
-    "section": "",
-    "text": "This is will be the technical documentation site for the BraVe system.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    "objectID": "index.html#how-to-use-this-portal",
+    "href": "index.html#how-to-use-this-portal",
+    "title": "BraVe Documentation Portal",
+    "section": "How to use this portal",
+    "text": "How to use this portal\nTo understand how to get up and running with BRaVe, and it’s hardware requirements and device compatibility, go to the Getting Started section.\nThe how-to guides, tutorials and technical reference material are available in the Documentation page. This content and layout of this site are inspired by the Diataxis approach, a framework for technical writing."
   },
   {
-    "objectID": "index.html#the-approach",
-    "href": "index.html#the-approach",
-    "title": "BraVe Documentation",
-    "section": "The approach",
-    "text": "The approach\nThis content and layout of this site are guided by the Diataxis approach."
+    "objectID": "index.html#feature-roadmap",
+    "href": "index.html#feature-roadmap",
+    "title": "BraVe Documentation Portal",
+    "section": "Feature Roadmap",
+    "text": "Feature Roadmap\nBRaVe is in active development, is currently undergoing testing, with an initial open-source release planned for April 2026."
   },
   {
-    "objectID": "index.html#links",
-    "href": "index.html#links",
-    "title": "BraVe Documentation",
-    "section": "Links",
-    "text": "Links"
+    "objectID": "index.html#history-of-brave",
+    "href": "index.html#history-of-brave",
+    "title": "BraVe Documentation Portal",
+    "section": "History of BRaVe",
+    "text": "History of BRaVe\nThe first version of BRaVe, a fully static desktop-based version, was launched in 2014 and has seen continued use since then. More recently a mobile version, internally referred to as BRaVe 2, was piloted. In 2025, development began in BRaVe 3, a comprehensive rearchitecturing and rebuild of the system, replacing both version 2 and 3."
+  },
+  {
+    "objectID": "index.html#useful-links",
+    "href": "index.html#useful-links",
+    "title": "BraVe Documentation Portal",
+    "section": "Useful Links",
+    "text": "Useful Links\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "BraVe Documentation Portal",
+    "section": "License",
+    "text": "License\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "index.html#contributing",
+    "href": "index.html#contributing",
+    "title": "BraVe Documentation Portal",
+    "section": "Contributing",
+    "text": "Contributing\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "BraVe Documentation",
+    "title": "BraVe Documentation Portal",
     "section": "Contact",
-    "text": "Contact\nStill havent found what you’re looking for. Contact #@iom.int."
+    "text": "Contact\nStill haven’t found what you’re looking for? Contact IDPRegistrationSupport@iom.int."
   },
   {
     "objectID": "documentation.html",
