@@ -1,152 +1,5 @@
 [
   {
-    "objectID": "getstarted.html",
-    "href": "getstarted.html",
-    "title": "Getting Started",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-  },
-  {
-    "objectID": "getstarted.html#choosing-how-to-use-brave",
-    "href": "getstarted.html#choosing-how-to-use-brave",
-    "title": "Getting Started",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-  },
-  {
-    "objectID": "getstarted.html#prerequisites",
-    "href": "getstarted.html#prerequisites",
-    "title": "Getting Started",
-    "section": "Prerequisites",
-    "text": "Prerequisites\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-  },
-  {
-    "objectID": "getstarted.html#installation",
-    "href": "getstarted.html#installation",
-    "title": "Getting Started",
-    "section": "Installation",
-    "text": "Installation\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-  },
-  {
-    "objectID": "getstarted.html#hardware-compatibility",
-    "href": "getstarted.html#hardware-compatibility",
-    "title": "Getting Started",
-    "section": "Hardware Compatibility",
-    "text": "Hardware Compatibility\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "BraVe Documentation Portal",
-    "section": "",
-    "text": "This is the technical documentation site for BraVe, an open-source tool for humanitarian registration, deduplication, assistance, and referral."
-  },
-  {
-    "objectID": "index.html#how-to-use-this-portal",
-    "href": "index.html#how-to-use-this-portal",
-    "title": "BraVe Documentation Portal",
-    "section": "How to use this portal",
-    "text": "How to use this portal\nTo understand how to get up and running with BRaVe, and it’s hardware requirements and device compatibility, go to the Getting Started section.\nThe how-to guides, tutorials and technical reference material are available in the Documentation page. This content and layout of this site are inspired by the Diataxis approach, a framework for technical writing."
-  },
-  {
-    "objectID": "index.html#feature-roadmap",
-    "href": "index.html#feature-roadmap",
-    "title": "BraVe Documentation Portal",
-    "section": "Feature Roadmap",
-    "text": "Feature Roadmap\nBRaVe is in active development, is currently undergoing testing, with an initial open-source release planned for April 2026."
-  },
-  {
-    "objectID": "index.html#history-of-brave",
-    "href": "index.html#history-of-brave",
-    "title": "BraVe Documentation Portal",
-    "section": "History of BRaVe",
-    "text": "History of BRaVe\nThe first version of BRaVe, a fully static desktop-based version, was launched in 2014 and has seen continued use since then. More recently a mobile version, internally referred to as BRaVe 2, was piloted. In 2025, development began in BRaVe 3, a comprehensive rearchitecturing and rebuild of the system, replacing both version 2 and 3."
-  },
-  {
-    "objectID": "index.html#useful-links",
-    "href": "index.html#useful-links",
-    "title": "BraVe Documentation Portal",
-    "section": "Useful Links",
-    "text": "Useful Links\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-  },
-  {
-    "objectID": "index.html#license",
-    "href": "index.html#license",
-    "title": "BraVe Documentation Portal",
-    "section": "License",
-    "text": "License\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-  },
-  {
-    "objectID": "index.html#contributing",
-    "href": "index.html#contributing",
-    "title": "BraVe Documentation Portal",
-    "section": "Contributing",
-    "text": "Contributing\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "BraVe Documentation Portal",
-    "section": "Contact",
-    "text": "Contact\nStill haven’t found what you’re looking for? Contact IDPRegistrationSupport@iom.int."
-  },
-  {
-    "objectID": "documentation.html",
-    "href": "documentation.html",
-    "title": "Documentation",
-    "section": "",
-    "text": "…"
-  },
-  {
-    "objectID": "documentation.html#how-to-guides",
-    "href": "documentation.html#how-to-guides",
-    "title": "Documentation",
-    "section": "",
-    "text": "…"
-  },
-  {
-    "objectID": "documentation.html#tutorials",
-    "href": "documentation.html#tutorials",
-    "title": "Documentation",
-    "section": "Tutorials",
-    "text": "Tutorials\n…"
-  },
-  {
-    "objectID": "documentation.html#reference",
-    "href": "documentation.html#reference",
-    "title": "Documentation",
-    "section": "Reference",
-    "text": "Reference\n…"
-  },
-  {
-    "objectID": "documentation.html#changelog",
-    "href": "documentation.html#changelog",
-    "title": "Documentation",
-    "section": "Changelog",
-    "text": "Changelog\n…"
-  },
-  {
-    "objectID": "about.html#team",
-    "href": "about.html#team",
-    "title": "About",
-    "section": "Team",
-    "text": "Team"
-  },
-  {
-    "objectID": "about.html#roadmap",
-    "href": "about.html#roadmap",
-    "title": "About",
-    "section": "Roadmap",
-    "text": "Roadmap"
-  },
-  {
-    "objectID": "about.html#project-history",
-    "href": "about.html#project-history",
-    "title": "About",
-    "section": "Project history",
-    "text": "Project history"
-  },
-  {
     "objectID": "reference/index.html",
     "href": "reference/index.html",
     "title": "Reference",
@@ -182,39 +35,74 @@
     "text": "Changelog\n…"
   },
   {
-    "objectID": "tutorials/index.html",
-    "href": "tutorials/index.html",
-    "title": "Tutorials",
+    "objectID": "howto/index.html",
+    "href": "howto/index.html",
+    "title": "How-to Guides",
     "section": "",
-    "text": "This section is a work in progress"
+    "text": "How to manage users and roles — create users, assign roles (admin, registrar, viewer), permissions model\nHow to configure programme/project settings — programme hierarchy, geographic scope, active periods"
   },
   {
-    "objectID": "tutorials/index.html#tutorial-1-your-first-registration",
-    "href": "tutorials/index.html#tutorial-1-your-first-registration",
-    "title": "Tutorials",
-    "section": "Tutorial 1: Your first registration",
-    "text": "Tutorial 1: Your first registration\nLearning goal: Understand the core registration workflow — creating a project, designing a form, enrolling a beneficiary, and viewing the record."
+    "objectID": "howto/index.html#administration",
+    "href": "howto/index.html#administration",
+    "title": "How-to Guides",
+    "section": "",
+    "text": "How to manage users and roles — create users, assign roles (admin, registrar, viewer), permissions model\nHow to configure programme/project settings — programme hierarchy, geographic scope, active periods"
   },
   {
-    "objectID": "tutorials/index.html#tutorial-2-setting-up-a-field-deployment",
-    "href": "tutorials/index.html#tutorial-2-setting-up-a-field-deployment",
-    "title": "Tutorials",
-    "section": "Tutorial 2: Setting up a field deployment",
-    "text": "Tutorial 2: Setting up a field deployment\nLearning goal: Understand how BRaVe works in a real field context."
+    "objectID": "howto/index.html#setup",
+    "href": "howto/index.html#setup",
+    "title": "How-to Guides",
+    "section": "Setup",
+    "text": "Setup\n\nHow to provision devices\nHow to add enumerators\nHow to configure administrative areas\nHow to add lookups and data fields\nHow to create Surveys\nHow to create distribution items, kits and distribution types\nHow to configure preferences\nHow to configure activities"
   },
   {
-    "objectID": "tutorials/index.html#tutorial-3-biometric-enrollment-and-verification",
-    "href": "tutorials/index.html#tutorial-3-biometric-enrollment-and-verification",
-    "title": "Tutorials",
-    "section": "Tutorial 3: Biometric enrollment and verification",
-    "text": "Tutorial 3: Biometric enrollment and verification\nLearning goal: Understand the biometric pipeline — enrollment, template extraction, matching, and deduplication."
+    "objectID": "howto/index.html#registration-and-data-management",
+    "href": "howto/index.html#registration-and-data-management",
+    "title": "How-to Guides",
+    "section": "Registration and data management",
+    "text": "Registration and data management\n\nHow to create a custom registration form — field types, validation rules, conditional logic, multi-language support\nHow to edit a beneficiary record — update biographical data, re-enrol biometrics, audit trail\nHow to merge duplicate records — manual merge workflow, conflict resolution, which fields take precedence\nHow to bulk import beneficiary data — CSV/Excel import, field mapping, validation errors, dry-run mode"
   },
   {
-    "objectID": "tutorials/index.html#tutorial-4-assistance-and-referral",
-    "href": "tutorials/index.html#tutorial-4-assistance-and-referral",
-    "title": "Tutorials",
-    "section": "Tutorial 4: Assistance and referral",
-    "text": "Tutorial 4: Assistance and referral\nLearning goal: Understand how BRaVe tracks what assistance a beneficiary has received and how referrals between agencies work."
+    "objectID": "howto/index.html#deduplication",
+    "href": "howto/index.html#deduplication",
+    "title": "How-to Guides",
+    "section": "Deduplication",
+    "text": "Deduplication\n\nHow do do biometric deduplication and adjudication\nHow to do field-based deduplication and adjudication"
+  },
+  {
+    "objectID": "howto/index.html#biometrc-record-checking",
+    "href": "howto/index.html#biometrc-record-checking",
+    "title": "How-to Guides",
+    "section": "Biometrc Record Checking",
+    "text": "Biometrc Record Checking\n\nHow to do a biometric record check"
+  },
+  {
+    "objectID": "howto/index.html#device-management",
+    "href": "howto/index.html#device-management",
+    "title": "How-to Guides",
+    "section": "Device Management",
+    "text": "Device Management\n\nHow to install BRaVe"
+  },
+  {
+    "objectID": "about.html#team",
+    "href": "about.html#team",
+    "title": "About",
+    "section": "Team",
+    "text": "Team"
+  },
+  {
+    "objectID": "about.html#roadmap",
+    "href": "about.html#roadmap",
+    "title": "About",
+    "section": "Roadmap",
+    "text": "Roadmap"
+  },
+  {
+    "objectID": "about.html#project-history",
+    "href": "about.html#project-history",
+    "title": "About",
+    "section": "Project history",
+    "text": "Project history"
   },
   {
     "objectID": "about/index.html",
@@ -273,52 +161,164 @@
     "text": "Contact\nStill haven’t found what you’re looking for? Contact IDPRegistrationSupport@iom.int."
   },
   {
-    "objectID": "howto/index.html",
-    "href": "howto/index.html",
-    "title": "How-to Guides",
+    "objectID": "documentation.html",
+    "href": "documentation.html",
+    "title": "Documentation",
     "section": "",
-    "text": "How to manage users and roles — create users, assign roles (admin, registrar, viewer), permissions model\nHow to configure programme/project settings — programme hierarchy, geographic scope, active periods"
+    "text": "…"
   },
   {
-    "objectID": "howto/index.html#administration",
-    "href": "howto/index.html#administration",
-    "title": "How-to Guides",
+    "objectID": "documentation.html#how-to-guides",
+    "href": "documentation.html#how-to-guides",
+    "title": "Documentation",
     "section": "",
-    "text": "How to manage users and roles — create users, assign roles (admin, registrar, viewer), permissions model\nHow to configure programme/project settings — programme hierarchy, geographic scope, active periods"
+    "text": "…"
   },
   {
-    "objectID": "howto/index.html#setup",
-    "href": "howto/index.html#setup",
-    "title": "How-to Guides",
-    "section": "Setup",
-    "text": "Setup\n\nHow to provision devices\nHow to add enumerators\nHow to configure administrative areas\nHow to add lookups and data fields\nHow to create Surveys\nHow to create distribution items, kits and distribution types\nHow to configure preferences\nHow to configure activities"
+    "objectID": "documentation.html#tutorials",
+    "href": "documentation.html#tutorials",
+    "title": "Documentation",
+    "section": "Tutorials",
+    "text": "Tutorials\n…"
   },
   {
-    "objectID": "howto/index.html#registration-and-data-management",
-    "href": "howto/index.html#registration-and-data-management",
-    "title": "How-to Guides",
-    "section": "Registration and data management",
-    "text": "Registration and data management\n\nHow to create a custom registration form — field types, validation rules, conditional logic, multi-language support\nHow to edit a beneficiary record — update biographical data, re-enrol biometrics, audit trail\nHow to merge duplicate records — manual merge workflow, conflict resolution, which fields take precedence\nHow to bulk import beneficiary data — CSV/Excel import, field mapping, validation errors, dry-run mode"
+    "objectID": "documentation.html#reference",
+    "href": "documentation.html#reference",
+    "title": "Documentation",
+    "section": "Reference",
+    "text": "Reference\n…"
   },
   {
-    "objectID": "howto/index.html#deduplication",
-    "href": "howto/index.html#deduplication",
-    "title": "How-to Guides",
-    "section": "Deduplication",
-    "text": "Deduplication\n\nHow do do biometric deduplication and adjudication\nHow to do field-based deduplication and adjudication"
+    "objectID": "documentation.html#changelog",
+    "href": "documentation.html#changelog",
+    "title": "Documentation",
+    "section": "Changelog",
+    "text": "Changelog\n…"
   },
   {
-    "objectID": "howto/index.html#biometrc-record-checking",
-    "href": "howto/index.html#biometrc-record-checking",
-    "title": "How-to Guides",
-    "section": "Biometrc Record Checking",
-    "text": "Biometrc Record Checking\n\nHow to do a biometric record check"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BraVe Documentation Portal",
+    "section": "",
+    "text": "This is the technical documentation site for BraVe, an open-source tool for humanitarian registration, deduplication, assistance, and referral."
   },
   {
-    "objectID": "howto/index.html#device-management",
-    "href": "howto/index.html#device-management",
-    "title": "How-to Guides",
-    "section": "Device Management",
-    "text": "Device Management\n\nHow to install BRaVe"
+    "objectID": "index.html#how-to-use-this-portal",
+    "href": "index.html#how-to-use-this-portal",
+    "title": "BraVe Documentation Portal",
+    "section": "How to use this portal",
+    "text": "How to use this portal\nTo understand how to get up and running with BRaVe, and it’s hardware requirements and device compatibility, go to the Getting Started section.\nThe how-to guides, tutorials and technical reference material are available in the Documentation page. This content and layout of this site are inspired by the Diataxis approach, a framework for technical writing."
+  },
+  {
+    "objectID": "index.html#feature-roadmap",
+    "href": "index.html#feature-roadmap",
+    "title": "BraVe Documentation Portal",
+    "section": "Feature Roadmap",
+    "text": "Feature Roadmap\nBRaVe is in active development, is currently undergoing testing, with an initial open-source release planned for April 2026."
+  },
+  {
+    "objectID": "index.html#history-of-brave",
+    "href": "index.html#history-of-brave",
+    "title": "BraVe Documentation Portal",
+    "section": "History of BRaVe",
+    "text": "History of BRaVe\nThe first version of BRaVe, a fully static desktop-based version, was launched in 2014 and has seen continued use since then. More recently a mobile version, internally referred to as BRaVe 2, was piloted. In 2025, development began in BRaVe 3, a comprehensive rearchitecturing and rebuild of the system, replacing both version 2 and 3."
+  },
+  {
+    "objectID": "index.html#useful-links",
+    "href": "index.html#useful-links",
+    "title": "BraVe Documentation Portal",
+    "section": "Useful Links",
+    "text": "Useful Links\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "BraVe Documentation Portal",
+    "section": "License",
+    "text": "License\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "index.html#contributing",
+    "href": "index.html#contributing",
+    "title": "BraVe Documentation Portal",
+    "section": "Contributing",
+    "text": "Contributing\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "BraVe Documentation Portal",
+    "section": "Contact",
+    "text": "Contact\nStill haven’t found what you’re looking for? Contact IDPRegistrationSupport@iom.int."
+  },
+  {
+    "objectID": "tutorials/index.html",
+    "href": "tutorials/index.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "This section is a work in progress"
+  },
+  {
+    "objectID": "tutorials/index.html#tutorial-1-your-first-registration",
+    "href": "tutorials/index.html#tutorial-1-your-first-registration",
+    "title": "Tutorials",
+    "section": "Tutorial 1: Your first registration",
+    "text": "Tutorial 1: Your first registration\nLearning goal: Understand the core registration workflow — creating a project, designing a form, enrolling a beneficiary, and viewing the record."
+  },
+  {
+    "objectID": "tutorials/index.html#tutorial-2-setting-up-a-field-deployment",
+    "href": "tutorials/index.html#tutorial-2-setting-up-a-field-deployment",
+    "title": "Tutorials",
+    "section": "Tutorial 2: Setting up a field deployment",
+    "text": "Tutorial 2: Setting up a field deployment\nLearning goal: Understand how BRaVe works in a real field context."
+  },
+  {
+    "objectID": "tutorials/index.html#tutorial-3-biometric-enrollment-and-verification",
+    "href": "tutorials/index.html#tutorial-3-biometric-enrollment-and-verification",
+    "title": "Tutorials",
+    "section": "Tutorial 3: Biometric enrollment and verification",
+    "text": "Tutorial 3: Biometric enrollment and verification\nLearning goal: Understand the biometric pipeline — enrollment, template extraction, matching, and deduplication."
+  },
+  {
+    "objectID": "tutorials/index.html#tutorial-4-assistance-and-referral",
+    "href": "tutorials/index.html#tutorial-4-assistance-and-referral",
+    "title": "Tutorials",
+    "section": "Tutorial 4: Assistance and referral",
+    "text": "Tutorial 4: Assistance and referral\nLearning goal: Understand how BRaVe tracks what assistance a beneficiary has received and how referrals between agencies work."
+  },
+  {
+    "objectID": "getstarted.html",
+    "href": "getstarted.html",
+    "title": "Getting Started",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "getstarted.html#choosing-how-to-use-brave",
+    "href": "getstarted.html#choosing-how-to-use-brave",
+    "title": "Getting Started",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "getstarted.html#prerequisites",
+    "href": "getstarted.html#prerequisites",
+    "title": "Getting Started",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "getstarted.html#installation",
+    "href": "getstarted.html#installation",
+    "title": "Getting Started",
+    "section": "Installation",
+    "text": "Installation\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "getstarted.html#hardware-compatibility",
+    "href": "getstarted.html#hardware-compatibility",
+    "title": "Getting Started",
+    "section": "Hardware Compatibility",
+    "text": "Hardware Compatibility\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
   }
 ]
