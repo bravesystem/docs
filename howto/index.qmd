@@ -1,0 +1,51 @@
+---
+title: "How-to Guides"
+---
+
+## Administration
+
+- How to manage users and roles — create users, assign roles (admin, registrar, viewer), permissions model
+
+- How to configure programme/project settings — programme hierarchy, geographic scope, active periods
+
+## Setup
+
+- How to provision devices
+
+- How to add enumerators
+
+- How to configure administrative areas
+
+- How to add lookups and data fields
+
+- How to create Surveys
+
+- How to create distribution items, kits and distribution types
+
+- How to configure preferences
+
+- How to configure activities
+
+## Registration and data management
+
+- How to create a custom registration form — field types, validation rules, conditional logic, multi-language support
+
+- How to edit a beneficiary record — update biographical data, re-enrol biometrics, audit trail
+
+- How to merge duplicate records — manual merge workflow, conflict resolution, which fields take precedence
+
+- How to bulk import beneficiary data — CSV/Excel import, field mapping, validation errors, dry-run mode
+
+## Deduplication
+
+- How do do biometric deduplication and adjudication
+
+- How to do field-based deduplication and adjudication
+
+## Biometrc Record Checking
+
+- How to do a biometric record check
+
+## Device Management
+
+- How to install BRaVe

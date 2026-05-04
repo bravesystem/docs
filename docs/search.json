@@ -145,5 +145,180 @@
     "title": "About",
     "section": "Project history",
     "text": "Project history"
+  },
+  {
+    "objectID": "reference/index.html",
+    "href": "reference/index.html",
+    "title": "Reference",
+    "section": "",
+    "text": "…\n\n\n…"
+  },
+  {
+    "objectID": "reference/index.html#architecture",
+    "href": "reference/index.html#architecture",
+    "title": "Reference",
+    "section": "",
+    "text": "…\n\n\n…"
+  },
+  {
+    "objectID": "reference/index.html#hardware-compatibility",
+    "href": "reference/index.html#hardware-compatibility",
+    "title": "Reference",
+    "section": "Hardware Compatibility",
+    "text": "Hardware Compatibility\n…"
+  },
+  {
+    "objectID": "reference/index.html#glossary",
+    "href": "reference/index.html#glossary",
+    "title": "Reference",
+    "section": "Glossary",
+    "text": "Glossary\n…"
+  },
+  {
+    "objectID": "reference/index.html#changelog",
+    "href": "reference/index.html#changelog",
+    "title": "Reference",
+    "section": "Changelog",
+    "text": "Changelog\n…"
+  },
+  {
+    "objectID": "tutorials/index.html",
+    "href": "tutorials/index.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "This section is a work in progress"
+  },
+  {
+    "objectID": "tutorials/index.html#tutorial-1-your-first-registration",
+    "href": "tutorials/index.html#tutorial-1-your-first-registration",
+    "title": "Tutorials",
+    "section": "Tutorial 1: Your first registration",
+    "text": "Tutorial 1: Your first registration\nLearning goal: Understand the core registration workflow — creating a project, designing a form, enrolling a beneficiary, and viewing the record."
+  },
+  {
+    "objectID": "tutorials/index.html#tutorial-2-setting-up-a-field-deployment",
+    "href": "tutorials/index.html#tutorial-2-setting-up-a-field-deployment",
+    "title": "Tutorials",
+    "section": "Tutorial 2: Setting up a field deployment",
+    "text": "Tutorial 2: Setting up a field deployment\nLearning goal: Understand how BRaVe works in a real field context."
+  },
+  {
+    "objectID": "tutorials/index.html#tutorial-3-biometric-enrollment-and-verification",
+    "href": "tutorials/index.html#tutorial-3-biometric-enrollment-and-verification",
+    "title": "Tutorials",
+    "section": "Tutorial 3: Biometric enrollment and verification",
+    "text": "Tutorial 3: Biometric enrollment and verification\nLearning goal: Understand the biometric pipeline — enrollment, template extraction, matching, and deduplication."
+  },
+  {
+    "objectID": "tutorials/index.html#tutorial-4-assistance-and-referral",
+    "href": "tutorials/index.html#tutorial-4-assistance-and-referral",
+    "title": "Tutorials",
+    "section": "Tutorial 4: Assistance and referral",
+    "text": "Tutorial 4: Assistance and referral\nLearning goal: Understand how BRaVe tracks what assistance a beneficiary has received and how referrals between agencies work."
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "…\n\n\n…\n\n\n\n…\n\n\n\n…"
+  },
+  {
+    "objectID": "about/index.html#overview",
+    "href": "about/index.html#overview",
+    "title": "About",
+    "section": "",
+    "text": "…\n\n\n…\n\n\n\n…\n\n\n\n…"
+  },
+  {
+    "objectID": "about/index.html#history-of-brave",
+    "href": "about/index.html#history-of-brave",
+    "title": "About",
+    "section": "History of BRaVe",
+    "text": "History of BRaVe\nThe first version of BRaVe, a fully static desktop-based version, was launched in 2014 and has seen continued use since then. More recently a mobile version, internally referred to as BRaVe 2, was piloted. In 2025, development began in BRaVe 3, a comprehensive rearchitecturing and rebuild of the system, replacing both version 2 and 3."
+  },
+  {
+    "objectID": "about/index.html#feature-roadmap",
+    "href": "about/index.html#feature-roadmap",
+    "title": "About",
+    "section": "Feature Roadmap",
+    "text": "Feature Roadmap\nBRaVe is in active development, is currently undergoing testing, with an initial open-source release planned for April 2026."
+  },
+  {
+    "objectID": "about/index.html#useful-links",
+    "href": "about/index.html#useful-links",
+    "title": "About",
+    "section": "Useful Links",
+    "text": "Useful Links\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "about/index.html#license",
+    "href": "about/index.html#license",
+    "title": "About",
+    "section": "License",
+    "text": "License\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "about/index.html#contributing",
+    "href": "about/index.html#contributing",
+    "title": "About",
+    "section": "Contributing",
+    "text": "Contributing\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "about/index.html#contact",
+    "href": "about/index.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nStill haven’t found what you’re looking for? Contact IDPRegistrationSupport@iom.int."
+  },
+  {
+    "objectID": "howto/index.html",
+    "href": "howto/index.html",
+    "title": "How-to Guides",
+    "section": "",
+    "text": "How to manage users and roles — create users, assign roles (admin, registrar, viewer), permissions model\nHow to configure programme/project settings — programme hierarchy, geographic scope, active periods"
+  },
+  {
+    "objectID": "howto/index.html#administration",
+    "href": "howto/index.html#administration",
+    "title": "How-to Guides",
+    "section": "",
+    "text": "How to manage users and roles — create users, assign roles (admin, registrar, viewer), permissions model\nHow to configure programme/project settings — programme hierarchy, geographic scope, active periods"
+  },
+  {
+    "objectID": "howto/index.html#setup",
+    "href": "howto/index.html#setup",
+    "title": "How-to Guides",
+    "section": "Setup",
+    "text": "Setup\n\nHow to provision devices\nHow to add enumerators\nHow to configure administrative areas\nHow to add lookups and data fields\nHow to create Surveys\nHow to create distribution items, kits and distribution types\nHow to configure preferences\nHow to configure activities"
+  },
+  {
+    "objectID": "howto/index.html#registration-and-data-management",
+    "href": "howto/index.html#registration-and-data-management",
+    "title": "How-to Guides",
+    "section": "Registration and data management",
+    "text": "Registration and data management\n\nHow to create a custom registration form — field types, validation rules, conditional logic, multi-language support\nHow to edit a beneficiary record — update biographical data, re-enrol biometrics, audit trail\nHow to merge duplicate records — manual merge workflow, conflict resolution, which fields take precedence\nHow to bulk import beneficiary data — CSV/Excel import, field mapping, validation errors, dry-run mode"
+  },
+  {
+    "objectID": "howto/index.html#deduplication",
+    "href": "howto/index.html#deduplication",
+    "title": "How-to Guides",
+    "section": "Deduplication",
+    "text": "Deduplication\n\nHow do do biometric deduplication and adjudication\nHow to do field-based deduplication and adjudication"
+  },
+  {
+    "objectID": "howto/index.html#biometrc-record-checking",
+    "href": "howto/index.html#biometrc-record-checking",
+    "title": "How-to Guides",
+    "section": "Biometrc Record Checking",
+    "text": "Biometrc Record Checking\n\nHow to do a biometric record check"
+  },
+  {
+    "objectID": "howto/index.html#device-management",
+    "href": "howto/index.html#device-management",
+    "title": "How-to Guides",
+    "section": "Device Management",
+    "text": "Device Management\n\nHow to install BRaVe"
   }
 ]

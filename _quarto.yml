@@ -5,14 +5,22 @@ project:
 brand: _brand.yml
 
 website:
-  title: "BraVe Documentation"
+  title: "Documentation"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      # - href: index.qmd
+      #   text: Home
+      - text: "About"
+        href: about/index.qmd
+      - text: "How-to"
+        href: howto/index.qmd
+      - text: "Tutorials"
+        href: tutorials/index.qmd
+      - text: "Reference"
+        href: reference/index.qmd
       # - about.qmd
-      - getstarted.qmd
-      - documentation.qmd
+      # - getstarted.qmd
+      # - documentation.qmd
       # - community.qmd
 
 format:

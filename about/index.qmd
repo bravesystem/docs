@@ -1,0 +1,45 @@
+---
+title: "About"
+---
+
+## Overview
+
+...
+
+### The deduplication approach
+
+...
+
+
+### Interoperability design
+
+...
+
+### Offline-first design
+
+...
+
+
+## History of BRaVe
+
+The first version of BRaVe, a fully static desktop-based version, was launched in 2014 and has seen continued use since then. More recently a mobile version, internally referred to as BRaVe 2, was piloted. In 2025, development began in BRaVe 3, a comprehensive rearchitecturing and rebuild of the system, replacing both version 2 and 3.
+
+## Feature Roadmap
+
+BRaVe is in active development, is currently undergoing testing, with an initial open-source release planned for April 2026.
+
+## Useful Links
+
+{{< lipsum 1 >}}
+
+## License
+
+{{< lipsum 1 >}}
+
+## Contributing
+
+{{< lipsum 1 >}}
+
+## Contact
+
+Still haven't found what you're looking for? Contact [IDPRegistrationSupport@iom.int](mailto://IDPRegistrationSupport@iom.int).

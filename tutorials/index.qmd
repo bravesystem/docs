@@ -1,0 +1,17 @@
+---
+title: "Tutorials"
+---
+
+**This section is a work in progress**
+
+## Tutorial 1: Your first registration
+Learning goal: Understand the core registration workflow — creating a project, designing a form, enrolling a beneficiary, and viewing the record.
+
+## Tutorial 2: Setting up a field deployment
+Learning goal: Understand how BRaVe works in a real field context.
+
+## Tutorial 3: Biometric enrollment and verification
+Learning goal: Understand the biometric pipeline — enrollment, template extraction, matching, and deduplication.
+
+## Tutorial 4: Assistance and referral
+Learning goal: Understand how BRaVe tracks what assistance a beneficiary has received and how referrals between agencies work.
