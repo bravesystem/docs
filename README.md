@@ -2,29 +2,29 @@
 
 The Documentation portal for the BRaVe - an open-source tool for humanitarian registration, deduplication, assistance, and referral.
 
-> [!NOTE]  
-> Currently the documentation requires Quarto to be installed locally and to be rendered locally before pushing changes. An upcoming release will render through CI, whic will failitate content updates through the web interface without requiring a local rendering.
+**NOTE**  
+*Currently the documentation requires Quarto to be installed locally and to be rendered locally before pushing changes. An upcoming release will render through CI, which will facilitate content updates through the web interface without requiring a local rendering.*
 
 
 ## Prerequisites
 
 Before edit or rendering the docs, ensure you have the Quarto tool installed; a package manager for your code along with the packages you need installed; and a text editor or IDE that supports Quarto.
 
-To set up your development environment using the Pixi tool, run the following:
+To set up your development environment using the uv tool, run the following:
 
-Install Pixi on Windows:
+Install uv on Windows:
 ```powershell
-powershell -ExecutionPolicy ByPass -c "irm -useb https://pixi.sh/install.ps1 | iex"
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
-Install Pixi on MacOS:
+Install uv on MacOS/Linux:
 ```bash
-curl -fsSL https://pixi.sh/install.sh | bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
 Install Quarto:
 ```bash
-pixi global install quarto
+uv tool install quarto-cli
 ```
 
 
