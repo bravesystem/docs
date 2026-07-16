@@ -1,5 +1,11 @@
 ---
 title: "How-to Guides"
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    fig-cap-location: bottom
 ---
 
 ## Administration
@@ -10,21 +16,168 @@ title: "How-to Guides"
 
 ## Setup
 
-- How to provision devices
+::: {.callout-important title="Who does what"}
+Setup tasks happen in two places. Each section below is labelled accordingly.
 
-- How to add enumerators
+| Label | Where | Who |
+|---|---|---|
+| **[PORTAL]{.badge-portal}** | BRaVe Management Portal (web browser) | Administrator / Programme Officer |
+| **[MOBILE]{.badge-mobile}** | BRaVe mobile app (Android phone or tablet) | Enumerator |
 
-- How to configure administrative areas
+: {tbl-colwidths="[15,45,40]"}
+:::
 
-- How to add lookups and data fields
+```{=html}
+<style>
+.badge-portal { background:#2c3e78; color:#fff; padding:2px 8px; border-radius:4px; font-size:0.8em; }
+.badge-mobile { background:#1e7d4f; color:#fff; padding:2px 8px; border-radius:4px; font-size:0.8em; }
+</style>
+```
 
-- How to create Surveys
+### Before you begin
 
-- How to create distribution items, kits and distribution types
+You will need:
 
-- How to configure preferences
+- A BRaVe **tenant** for your mission, created by the BRaVe support team. Each mission runs in its own tenant so its data is isolated.
+- A portal account with the **Program Admin** role (IOM staff sign in with their IOM account; implementing partners use the Partner login).
+- The portal address for your environment:
+  - Testing/UAT: `https://testportal.brave.iom.int`
+  - Production: `https://portal.brave.iom.int`
+- For device setup: the Android phones or tablets you will use in the field, with the BRaVe app installed and **provisioned** (linked to your tenant). See *How to install BRaVe* in the Device Management section.
 
-- How to configure activities
+::: {.callout-note}
+Biometric capture is optional and configurable per activity. Devices only need a fingerprint scanner if your activities require biometrics.
+:::
+
+### Portal setup [PORTAL]{.badge-portal}
+
+#### How to sign in to the Management Portal
+
+1. Open the portal address in your browser.
+2. Choose a login method: click **IOM Staff Login** (authenticates with your IOM Microsoft account) or **Partner Login** for implementing-partner accounts (@fig-login).
+3. Complete the multi-factor authentication prompt if requested.
+
+![The portal login page. Staff and partners use separate logins.](images/01-portal-login.jpg){#fig-login width=75%}
+
+After signing in you land on the **Dashboard**. The left-hand menu follows the operational workflow from top to bottom: Users, Registration, Deduplication, Targeting, Assistances, Data Exchange, Configuration and Monitoring (@fig-dashboard).
+
+![The portal dashboard. Setup tasks live mainly under **Configuration**.](images/02-portal-dashboard.jpg){#fig-dashboard}
+
+#### How to set up a registration programme
+
+Every mission needs at least one registration programme. The programme records the purpose of the registration and carries the **Risk Benefit Assessment (RBA)**, which must be approved before activities can start.
+
+1. In the left menu, open the **Programs** page.
+2. Click to add a new programme and complete the RBA form: the purpose of the registration activity, target population groups, who data will be shared with, and where it takes place.
+3. Submit the programme. It goes through an **approval process**; its status is shown in the programme list (@fig-programs).
+4. Once the status is **Approved**, you can add activities to the programme.
+
+![The programme list. Each programme shows its RBA status and a **Manage Activities** action.](images/03-programs-list.jpg){#fig-programs}
+
+::: {.callout-tip}
+If your mission has already completed a risk assessment outside BRaVe, the support team can transpose your existing programme into the system.
+:::
+
+#### How to configure activities
+
+Activities are the working unit of BRaVe: registrations, record checks and distributions all happen *within* an activity. Think of activities as buckets — create as many or as few as you need.
+
+1. From the programme list, click **Manage Activities** on an approved programme.
+2. Click **+ Setup Activity** (@fig-activities).
+3. Give the activity a title, description, and start and end dates.
+4. Attach the configuration the activity needs:
+   - one or more **consent forms** (multiple languages are supported, e.g. Portuguese);
+   - the **household-level** and **individual-level surveys** to use;
+   - **preferences**, such as whether biometrics are collected in this activity;
+   - the **enumerators** allowed to work in it (the whitelist).
+5. Save the activity. BRaVe assigns it a short **activity code** (e.g. `8GZ9`) — enumerators use this code to download the activity onto their devices.
+
+![Activities within a programme. Each activity has a code, title and active dates.](images/04-program-activities.jpg){#fig-activities}
+
+::: {.callout-note}
+Consent forms and surveys are attached per activity, so different activities can collect different data — for example biometrics in one activity and none in another.
+:::
+
+#### How to create distribution items, kits and distribution types
+
+If you will use BRaVe for assistance delivery, configure what is distributed before the distribution starts. The hierarchy is: **item types** (e.g. tarpaulin, rope) are grouped into **kit types** (e.g. Emergency Shelter Kit), which are attached to a **distribution type** (e.g. Emergency Shelter Distribution).
+
+1. In the left menu, open the distributions configuration page. It has three tabs: **Distribution Types**, **Kit Types** and **Item Types** (@fig-dist-types).
+2. On **Item Types**, create the individual items with their SKU, unit of measure (UoM) and quantity.
+3. On **Kit Types**, create kits and add items to them.
+4. On **Distribution Types**, click **+ Add Distribution Type** and name the distribution.
+5. Open **Manage Items** on the new distribution type and use **+ Add Kit to this distribution** or **+ Add Item to this distribution** to define what each beneficiary receives (@fig-dist-kit).
+
+![The distribution configuration page, with tabs for distribution types, kit types and item types.](images/05-distribution-types.jpg){#fig-dist-types}
+
+![An Emergency Shelter Kit attached to the Emergency Shelter Distribution. Use **View Composition** to check the items inside the kit.](images/06-distribution-kit-items.jpg){#fig-dist-kit}
+
+#### Other first-time configuration
+
+::: {.callout-warning title="Screenshots to be added"}
+The following setup tasks are done in the portal (mostly under **Configuration**) but are not yet illustrated in this guide. They will be documented in their own how-to guides:
+
+- **How to provision devices** — link each phone or tablet to your tenant; each device gets a device code (e.g. `OGAA04`).
+- **How to add enumerators** — create the enumerator profiles (each gets a code such as `EN05`) that appear on provisioned devices; enumerator access has an expiry date and can be set inactive.
+- **How to configure administrative areas** — load the admin boundaries used in registration.
+- **How to add lookups and data fields** — reference lists and custom data points.
+- **How to create surveys** — build the household- and individual-level questionnaires attached to activities.
+- **How to configure preferences** — mission-wide defaults such as biometric capture.
+:::
+
+### Device setup [MOBILE]{.badge-mobile}
+
+Once the portal setup is complete and devices are provisioned, each enumerator prepares their own device. This takes a few minutes and needs connectivity; after the activity is downloaded, registration can run fully offline.
+
+#### How to log in as an enumerator
+
+1. Open the BRaVe app on a provisioned device. The login screen shows the device code in the title bar, and the environment (e.g. UAT) it is linked to (@fig-app-login).
+2. Tap **Search Enumerator** and type your enumerator code (e.g. `EN05`) or name, then select yourself from the list (@fig-enum-search).
+3. Tap **Continue**.
+4. The first time you log in, set a secure 4-digit PIN. On later logins, enter your PIN (@fig-pin).
+
+![The app login screen. Check the device code and environment badge before continuing.](images/07-app-login-device.jpg){#fig-app-login width=55%}
+
+![Searching the enumerator list by code.](images/08-enumerator-list.jpg){#fig-enum-search width=55%}
+
+![Each enumerator protects their account with a 4-digit PIN.](images/09-enumerator-pin.jpg){#fig-pin width=55%}
+
+After logging in you see the dashboard. It is empty until you download an activity and start collecting data (@fig-app-dash).
+
+![The mobile dashboard summarises the enumerator's own progress per activity.](images/10-app-dashboard.jpg){#fig-app-dash width=55%}
+
+#### How to download a field activity onto the device
+
+1. From the dashboard, open the **Field Activity List**.
+2. Tap the download button (bottom right).
+3. Enter the **activity code** given to you by the programme officer, then tap **OK** (@fig-code).
+4. The activity appears in your list with its title, description and active dates (@fig-activity-list).
+5. Tap **Refresh** on the activity before going to the field so the device holds the latest configuration (surveys, consent forms, enumerator whitelist).
+
+![Enumerators pull activities onto the device with the short activity code.](images/11-activity-code-dialog.jpg){#fig-code width=55%}
+
+![Downloaded activities, each with **Refresh** (pull latest configuration) and **Sync** (push collected data).](images/12-field-activity-list.jpg){#fig-activity-list width=55%}
+
+::: {.callout-note title="Refresh vs Sync"}
+**Refresh** pulls the activity's latest configuration *to* the device. **Sync** pushes collected registration data *from* the device to the portal — run it at the end of each day, or whenever you have connectivity.
+:::
+
+#### How to verify an activity is ready for fieldwork
+
+Before travelling to the field, open the activity and confirm it is configured correctly:
+
+1. In the **Field Activity List**, tap the activity to open its details.
+2. Check the **Enumerator Whitelist** contains everyone working in this activity (@fig-detail-top).
+3. Check the **Consents** section lists the right consent form(s), with the correct required/optional flag and language.
+4. Check the **Surveys** section shows the expected household and individual surveys and their required/optional status (@fig-detail-bottom).
+5. Confirm the action buttons at the bottom match the work planned: **Registrations**, **Biometric Record Check** and/or **Distributions**.
+
+![Activity details: whitelist, preferences and consent forms.](images/13-activity-detail-top.jpg){#fig-detail-top width=55%}
+
+![Activity details: surveys and the available actions.](images/14-activity-detail-bottom.jpg){#fig-detail-bottom width=55%}
+
+If anything is missing, correct the activity in the portal, then tap **Refresh** on the device.
+
 
 ## Registration and data management
 

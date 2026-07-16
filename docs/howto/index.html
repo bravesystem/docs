@@ -132,12 +132,29 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#administration" id="toc-administration" class="nav-link active" data-scroll-target="#administration">Administration</a></li>
-  <li><a href="#setup" id="toc-setup" class="nav-link" data-scroll-target="#setup">Setup</a></li>
-  <li><a href="#registration-and-data-management" id="toc-registration-and-data-management" class="nav-link" data-scroll-target="#registration-and-data-management">Registration and data management</a></li>
-  <li><a href="#deduplication" id="toc-deduplication" class="nav-link" data-scroll-target="#deduplication">Deduplication</a></li>
-  <li><a href="#biometrc-record-checking" id="toc-biometrc-record-checking" class="nav-link" data-scroll-target="#biometrc-record-checking">Biometrc Record Checking</a></li>
-  <li><a href="#device-management" id="toc-device-management" class="nav-link" data-scroll-target="#device-management">Device Management</a></li>
+  <li><a href="#administration" id="toc-administration" class="nav-link active" data-scroll-target="#administration"><span class="header-section-number">1</span> Administration</a></li>
+  <li><a href="#setup" id="toc-setup" class="nav-link" data-scroll-target="#setup"><span class="header-section-number">2</span> Setup</a>
+  <ul>
+  <li><a href="#before-you-begin" id="toc-before-you-begin" class="nav-link" data-scroll-target="#before-you-begin"><span class="header-section-number">2.1</span> Before you begin</a></li>
+  <li><a href="#portal-setup-portal" id="toc-portal-setup-portal" class="nav-link" data-scroll-target="#portal-setup-portal"><span class="header-section-number">2.2</span> Portal setup <span class="badge-portal">PORTAL</span></a>
+  <ul class="collapse">
+  <li><a href="#how-to-sign-in-to-the-management-portal" id="toc-how-to-sign-in-to-the-management-portal" class="nav-link" data-scroll-target="#how-to-sign-in-to-the-management-portal"><span class="header-section-number">2.2.1</span> How to sign in to the Management Portal</a></li>
+  <li><a href="#how-to-set-up-a-registration-programme" id="toc-how-to-set-up-a-registration-programme" class="nav-link" data-scroll-target="#how-to-set-up-a-registration-programme"><span class="header-section-number">2.2.2</span> How to set up a registration programme</a></li>
+  <li><a href="#how-to-configure-activities" id="toc-how-to-configure-activities" class="nav-link" data-scroll-target="#how-to-configure-activities"><span class="header-section-number">2.2.3</span> How to configure activities</a></li>
+  <li><a href="#how-to-create-distribution-items-kits-and-distribution-types" id="toc-how-to-create-distribution-items-kits-and-distribution-types" class="nav-link" data-scroll-target="#how-to-create-distribution-items-kits-and-distribution-types"><span class="header-section-number">2.2.4</span> How to create distribution items, kits and distribution types</a></li>
+  <li><a href="#other-first-time-configuration" id="toc-other-first-time-configuration" class="nav-link" data-scroll-target="#other-first-time-configuration"><span class="header-section-number">2.2.5</span> Other first-time configuration</a></li>
+  </ul></li>
+  <li><a href="#device-setup-mobile" id="toc-device-setup-mobile" class="nav-link" data-scroll-target="#device-setup-mobile"><span class="header-section-number">2.3</span> Device setup <span class="badge-mobile">MOBILE</span></a>
+  <ul class="collapse">
+  <li><a href="#how-to-log-in-as-an-enumerator" id="toc-how-to-log-in-as-an-enumerator" class="nav-link" data-scroll-target="#how-to-log-in-as-an-enumerator"><span class="header-section-number">2.3.1</span> How to log in as an enumerator</a></li>
+  <li><a href="#how-to-download-a-field-activity-onto-the-device" id="toc-how-to-download-a-field-activity-onto-the-device" class="nav-link" data-scroll-target="#how-to-download-a-field-activity-onto-the-device"><span class="header-section-number">2.3.2</span> How to download a field activity onto the device</a></li>
+  <li><a href="#how-to-verify-an-activity-is-ready-for-fieldwork" id="toc-how-to-verify-an-activity-is-ready-for-fieldwork" class="nav-link" data-scroll-target="#how-to-verify-an-activity-is-ready-for-fieldwork"><span class="header-section-number">2.3.3</span> How to verify an activity is ready for fieldwork</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#registration-and-data-management" id="toc-registration-and-data-management" class="nav-link" data-scroll-target="#registration-and-data-management"><span class="header-section-number">3</span> Registration and data management</a></li>
+  <li><a href="#deduplication" id="toc-deduplication" class="nav-link" data-scroll-target="#deduplication"><span class="header-section-number">4</span> Deduplication</a></li>
+  <li><a href="#biometrc-record-checking" id="toc-biometrc-record-checking" class="nav-link" data-scroll-target="#biometrc-record-checking"><span class="header-section-number">5</span> Biometrc Record Checking</a></li>
+  <li><a href="#device-management" id="toc-device-management" class="nav-link" data-scroll-target="#device-management"><span class="header-section-number">6</span> Device Management</a></li>
   </ul>
 </nav>
     </div>
@@ -163,28 +180,377 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="administration" class="level2">
-<h2 class="anchored" data-anchor-id="administration">Administration</h2>
+<section id="administration" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="administration"><span class="header-section-number">1</span> Administration</h2>
 <ul>
 <li><p>How to manage users and roles — create users, assign roles (admin, registrar, viewer), permissions model</p></li>
 <li><p>How to configure programme/project settings — programme hierarchy, geographic scope, active periods</p></li>
 </ul>
 </section>
-<section id="setup" class="level2">
-<h2 class="anchored" data-anchor-id="setup">Setup</h2>
+<section id="setup" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="setup"><span class="header-section-number">2</span> Setup</h2>
+<div class="callout callout-style-default callout-important callout-titled" title="Who does what">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>Who does what
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Setup tasks happen in two places. Each section below is labelled accordingly.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 15%">
+<col style="width: 45%">
+<col style="width: 40%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Label</th>
+<th>Where</th>
+<th>Who</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong><span class="badge-portal">PORTAL</span></strong></td>
+<td>BRaVe Management Portal (web browser)</td>
+<td>Administrator / Programme Officer</td>
+</tr>
+<tr class="even">
+<td><strong><span class="badge-mobile">MOBILE</span></strong></td>
+<td>BRaVe mobile app (Android phone or tablet)</td>
+<td>Enumerator</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<style>
+.badge-portal { background:#2c3e78; color:#fff; padding:2px 8px; border-radius:4px; font-size:0.8em; }
+.badge-mobile { background:#1e7d4f; color:#fff; padding:2px 8px; border-radius:4px; font-size:0.8em; }
+</style>
+<section id="before-you-begin" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="before-you-begin"><span class="header-section-number">2.1</span> Before you begin</h3>
+<p>You will need:</p>
 <ul>
-<li><p>How to provision devices</p></li>
-<li><p>How to add enumerators</p></li>
-<li><p>How to configure administrative areas</p></li>
-<li><p>How to add lookups and data fields</p></li>
-<li><p>How to create Surveys</p></li>
-<li><p>How to create distribution items, kits and distribution types</p></li>
-<li><p>How to configure preferences</p></li>
-<li><p>How to configure activities</p></li>
+<li>A BRaVe <strong>tenant</strong> for your mission, created by the BRaVe support team. Each mission runs in its own tenant so its data is isolated.</li>
+<li>A portal account with the <strong>Program Admin</strong> role (IOM staff sign in with their IOM account; implementing partners use the Partner login).</li>
+<li>The portal address for your environment:
+<ul>
+<li>Testing/UAT: <code>https://testportal.brave.iom.int</code></li>
+<li>Production: <code>https://portal.brave.iom.int</code></li>
+</ul></li>
+<li>For device setup: the Android phones or tablets you will use in the field, with the BRaVe app installed and <strong>provisioned</strong> (linked to your tenant). See <em>How to install BRaVe</em> in the Device Management section.</li>
 </ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Biometric capture is optional and configurable per activity. Devices only need a fingerprint scanner if your activities require biometrics.</p>
+</div>
+</div>
 </section>
-<section id="registration-and-data-management" class="level2">
-<h2 class="anchored" data-anchor-id="registration-and-data-management">Registration and data management</h2>
+<section id="portal-setup-portal" class="level3" data-number="2.2">
+<h3 data-number="2.2" class="anchored" data-anchor-id="portal-setup-portal"><span class="header-section-number">2.2</span> Portal setup <span class="badge-portal">PORTAL</span></h3>
+<section id="how-to-sign-in-to-the-management-portal" class="level4" data-number="2.2.1">
+<h4 data-number="2.2.1" class="anchored" data-anchor-id="how-to-sign-in-to-the-management-portal"><span class="header-section-number">2.2.1</span> How to sign in to the Management Portal</h4>
+<ol type="1">
+<li>Open the portal address in your browser.</li>
+<li>Choose a login method: click <strong>IOM Staff Login</strong> (authenticates with your IOM Microsoft account) or <strong>Partner Login</strong> for implementing-partner accounts (<a href="#fig-login" class="quarto-xref">Figure&nbsp;1</a>).</li>
+<li>Complete the multi-factor authentication prompt if requested.</li>
+</ol>
+<div id="fig-login" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-login-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/01-portal-login.jpg" class="img-fluid figure-img" style="width:75.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-login-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: The portal login page. Staff and partners use separate logins.
+</figcaption>
+</figure>
+</div>
+<p>After signing in you land on the <strong>Dashboard</strong>. The left-hand menu follows the operational workflow from top to bottom: Users, Registration, Deduplication, Targeting, Assistances, Data Exchange, Configuration and Monitoring (<a href="#fig-dashboard" class="quarto-xref">Figure&nbsp;2</a>).</p>
+<div id="fig-dashboard" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-dashboard-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/02-portal-dashboard.jpg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-dashboard-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: The portal dashboard. Setup tasks live mainly under <strong>Configuration</strong>.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="how-to-set-up-a-registration-programme" class="level4" data-number="2.2.2">
+<h4 data-number="2.2.2" class="anchored" data-anchor-id="how-to-set-up-a-registration-programme"><span class="header-section-number">2.2.2</span> How to set up a registration programme</h4>
+<p>Every mission needs at least one registration programme. The programme records the purpose of the registration and carries the <strong>Risk Benefit Assessment (RBA)</strong>, which must be approved before activities can start.</p>
+<ol type="1">
+<li>In the left menu, open the <strong>Programs</strong> page.</li>
+<li>Click to add a new programme and complete the RBA form: the purpose of the registration activity, target population groups, who data will be shared with, and where it takes place.</li>
+<li>Submit the programme. It goes through an <strong>approval process</strong>; its status is shown in the programme list (<a href="#fig-programs" class="quarto-xref">Figure&nbsp;3</a>).</li>
+<li>Once the status is <strong>Approved</strong>, you can add activities to the programme.</li>
+</ol>
+<div id="fig-programs" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-programs-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/03-programs-list.jpg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-programs-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: The programme list. Each programme shows its RBA status and a <strong>Manage Activities</strong> action.
+</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If your mission has already completed a risk assessment outside BRaVe, the support team can transpose your existing programme into the system.</p>
+</div>
+</div>
+</section>
+<section id="how-to-configure-activities" class="level4" data-number="2.2.3">
+<h4 data-number="2.2.3" class="anchored" data-anchor-id="how-to-configure-activities"><span class="header-section-number">2.2.3</span> How to configure activities</h4>
+<p>Activities are the working unit of BRaVe: registrations, record checks and distributions all happen <em>within</em> an activity. Think of activities as buckets — create as many or as few as you need.</p>
+<ol type="1">
+<li>From the programme list, click <strong>Manage Activities</strong> on an approved programme.</li>
+<li>Click <strong>+ Setup Activity</strong> (<a href="#fig-activities" class="quarto-xref">Figure&nbsp;4</a>).</li>
+<li>Give the activity a title, description, and start and end dates.</li>
+<li>Attach the configuration the activity needs:
+<ul>
+<li>one or more <strong>consent forms</strong> (multiple languages are supported, e.g.&nbsp;Portuguese);</li>
+<li>the <strong>household-level</strong> and <strong>individual-level surveys</strong> to use;</li>
+<li><strong>preferences</strong>, such as whether biometrics are collected in this activity;</li>
+<li>the <strong>enumerators</strong> allowed to work in it (the whitelist).</li>
+</ul></li>
+<li>Save the activity. BRaVe assigns it a short <strong>activity code</strong> (e.g.&nbsp;<code>8GZ9</code>) — enumerators use this code to download the activity onto their devices.</li>
+</ol>
+<div id="fig-activities" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-activities-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/04-program-activities.jpg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-activities-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: Activities within a programme. Each activity has a code, title and active dates.
+</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Consent forms and surveys are attached per activity, so different activities can collect different data — for example biometrics in one activity and none in another.</p>
+</div>
+</div>
+</section>
+<section id="how-to-create-distribution-items-kits-and-distribution-types" class="level4" data-number="2.2.4">
+<h4 data-number="2.2.4" class="anchored" data-anchor-id="how-to-create-distribution-items-kits-and-distribution-types"><span class="header-section-number">2.2.4</span> How to create distribution items, kits and distribution types</h4>
+<p>If you will use BRaVe for assistance delivery, configure what is distributed before the distribution starts. The hierarchy is: <strong>item types</strong> (e.g.&nbsp;tarpaulin, rope) are grouped into <strong>kit types</strong> (e.g.&nbsp;Emergency Shelter Kit), which are attached to a <strong>distribution type</strong> (e.g.&nbsp;Emergency Shelter Distribution).</p>
+<ol type="1">
+<li>In the left menu, open the distributions configuration page. It has three tabs: <strong>Distribution Types</strong>, <strong>Kit Types</strong> and <strong>Item Types</strong> (<a href="#fig-dist-types" class="quarto-xref">Figure&nbsp;5</a>).</li>
+<li>On <strong>Item Types</strong>, create the individual items with their SKU, unit of measure (UoM) and quantity.</li>
+<li>On <strong>Kit Types</strong>, create kits and add items to them.</li>
+<li>On <strong>Distribution Types</strong>, click <strong>+ Add Distribution Type</strong> and name the distribution.</li>
+<li>Open <strong>Manage Items</strong> on the new distribution type and use <strong>+ Add Kit to this distribution</strong> or <strong>+ Add Item to this distribution</strong> to define what each beneficiary receives (<a href="#fig-dist-kit" class="quarto-xref">Figure&nbsp;6</a>).</li>
+</ol>
+<div id="fig-dist-types" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-dist-types-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/05-distribution-types.jpg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-dist-types-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5: The distribution configuration page, with tabs for distribution types, kit types and item types.
+</figcaption>
+</figure>
+</div>
+<div id="fig-dist-kit" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-dist-kit-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/06-distribution-kit-items.jpg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-dist-kit-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;6: An Emergency Shelter Kit attached to the Emergency Shelter Distribution. Use <strong>View Composition</strong> to check the items inside the kit.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="other-first-time-configuration" class="level4" data-number="2.2.5">
+<h4 data-number="2.2.5" class="anchored" data-anchor-id="other-first-time-configuration"><span class="header-section-number">2.2.5</span> Other first-time configuration</h4>
+<div class="callout callout-style-default callout-warning callout-titled" title="Screenshots to be added">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>Screenshots to be added
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The following setup tasks are done in the portal (mostly under <strong>Configuration</strong>) but are not yet illustrated in this guide. They will be documented in their own how-to guides:</p>
+<ul>
+<li><strong>How to provision devices</strong> — link each phone or tablet to your tenant; each device gets a device code (e.g.&nbsp;<code>OGAA04</code>).</li>
+<li><strong>How to add enumerators</strong> — create the enumerator profiles (each gets a code such as <code>EN05</code>) that appear on provisioned devices; enumerator access has an expiry date and can be set inactive.</li>
+<li><strong>How to configure administrative areas</strong> — load the admin boundaries used in registration.</li>
+<li><strong>How to add lookups and data fields</strong> — reference lists and custom data points.</li>
+<li><strong>How to create surveys</strong> — build the household- and individual-level questionnaires attached to activities.</li>
+<li><strong>How to configure preferences</strong> — mission-wide defaults such as biometric capture.</li>
+</ul>
+</div>
+</div>
+</section>
+</section>
+<section id="device-setup-mobile" class="level3" data-number="2.3">
+<h3 data-number="2.3" class="anchored" data-anchor-id="device-setup-mobile"><span class="header-section-number">2.3</span> Device setup <span class="badge-mobile">MOBILE</span></h3>
+<p>Once the portal setup is complete and devices are provisioned, each enumerator prepares their own device. This takes a few minutes and needs connectivity; after the activity is downloaded, registration can run fully offline.</p>
+<section id="how-to-log-in-as-an-enumerator" class="level4" data-number="2.3.1">
+<h4 data-number="2.3.1" class="anchored" data-anchor-id="how-to-log-in-as-an-enumerator"><span class="header-section-number">2.3.1</span> How to log in as an enumerator</h4>
+<ol type="1">
+<li>Open the BRaVe app on a provisioned device. The login screen shows the device code in the title bar, and the environment (e.g.&nbsp;UAT) it is linked to (<a href="#fig-app-login" class="quarto-xref">Figure&nbsp;7</a>).</li>
+<li>Tap <strong>Search Enumerator</strong> and type your enumerator code (e.g.&nbsp;<code>EN05</code>) or name, then select yourself from the list (<a href="#fig-enum-search" class="quarto-xref">Figure&nbsp;8</a>).</li>
+<li>Tap <strong>Continue</strong>.</li>
+<li>The first time you log in, set a secure 4-digit PIN. On later logins, enter your PIN (<a href="#fig-pin" class="quarto-xref">Figure&nbsp;9</a>).</li>
+</ol>
+<div id="fig-app-login" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-app-login-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/07-app-login-device.jpg" class="img-fluid figure-img" style="width:55.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-app-login-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;7: The app login screen. Check the device code and environment badge before continuing.
+</figcaption>
+</figure>
+</div>
+<div id="fig-enum-search" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-enum-search-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/08-enumerator-list.jpg" class="img-fluid figure-img" style="width:55.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-enum-search-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;8: Searching the enumerator list by code.
+</figcaption>
+</figure>
+</div>
+<div id="fig-pin" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-pin-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/09-enumerator-pin.jpg" class="img-fluid figure-img" style="width:55.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-pin-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;9: Each enumerator protects their account with a 4-digit PIN.
+</figcaption>
+</figure>
+</div>
+<p>After logging in you see the dashboard. It is empty until you download an activity and start collecting data (<a href="#fig-app-dash" class="quarto-xref">Figure&nbsp;10</a>).</p>
+<div id="fig-app-dash" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-app-dash-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/10-app-dashboard.jpg" class="img-fluid figure-img" style="width:55.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-app-dash-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;10: The mobile dashboard summarises the enumerator’s own progress per activity.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="how-to-download-a-field-activity-onto-the-device" class="level4" data-number="2.3.2">
+<h4 data-number="2.3.2" class="anchored" data-anchor-id="how-to-download-a-field-activity-onto-the-device"><span class="header-section-number">2.3.2</span> How to download a field activity onto the device</h4>
+<ol type="1">
+<li>From the dashboard, open the <strong>Field Activity List</strong>.</li>
+<li>Tap the download button (bottom right).</li>
+<li>Enter the <strong>activity code</strong> given to you by the programme officer, then tap <strong>OK</strong> (<a href="#fig-code" class="quarto-xref">Figure&nbsp;11</a>).</li>
+<li>The activity appears in your list with its title, description and active dates (<a href="#fig-activity-list" class="quarto-xref">Figure&nbsp;12</a>).</li>
+<li>Tap <strong>Refresh</strong> on the activity before going to the field so the device holds the latest configuration (surveys, consent forms, enumerator whitelist).</li>
+</ol>
+<div id="fig-code" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-code-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/11-activity-code-dialog.jpg" class="img-fluid figure-img" style="width:55.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-code-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;11: Enumerators pull activities onto the device with the short activity code.
+</figcaption>
+</figure>
+</div>
+<div id="fig-activity-list" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-activity-list-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/12-field-activity-list.jpg" class="img-fluid figure-img" style="width:55.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-activity-list-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;12: Downloaded activities, each with <strong>Refresh</strong> (pull latest configuration) and <strong>Sync</strong> (push collected data).
+</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-note callout-titled" title="Refresh vs Sync">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Refresh vs Sync
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Refresh</strong> pulls the activity’s latest configuration <em>to</em> the device. <strong>Sync</strong> pushes collected registration data <em>from</em> the device to the portal — run it at the end of each day, or whenever you have connectivity.</p>
+</div>
+</div>
+</section>
+<section id="how-to-verify-an-activity-is-ready-for-fieldwork" class="level4" data-number="2.3.3">
+<h4 data-number="2.3.3" class="anchored" data-anchor-id="how-to-verify-an-activity-is-ready-for-fieldwork"><span class="header-section-number">2.3.3</span> How to verify an activity is ready for fieldwork</h4>
+<p>Before travelling to the field, open the activity and confirm it is configured correctly:</p>
+<ol type="1">
+<li>In the <strong>Field Activity List</strong>, tap the activity to open its details.</li>
+<li>Check the <strong>Enumerator Whitelist</strong> contains everyone working in this activity (<a href="#fig-detail-top" class="quarto-xref">Figure&nbsp;13</a>).</li>
+<li>Check the <strong>Consents</strong> section lists the right consent form(s), with the correct required/optional flag and language.</li>
+<li>Check the <strong>Surveys</strong> section shows the expected household and individual surveys and their required/optional status (<a href="#fig-detail-bottom" class="quarto-xref">Figure&nbsp;14</a>).</li>
+<li>Confirm the action buttons at the bottom match the work planned: <strong>Registrations</strong>, <strong>Biometric Record Check</strong> and/or <strong>Distributions</strong>.</li>
+</ol>
+<div id="fig-detail-top" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-detail-top-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/13-activity-detail-top.jpg" class="img-fluid figure-img" style="width:55.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-detail-top-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;13: Activity details: whitelist, preferences and consent forms.
+</figcaption>
+</figure>
+</div>
+<div id="fig-detail-bottom" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-detail-bottom-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/14-activity-detail-bottom.jpg" class="img-fluid figure-img" style="width:55.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-detail-bottom-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;14: Activity details: surveys and the available actions.
+</figcaption>
+</figure>
+</div>
+<p>If anything is missing, correct the activity in the portal, then tap <strong>Refresh</strong> on the device.</p>
+</section>
+</section>
+</section>
+<section id="registration-and-data-management" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="registration-and-data-management"><span class="header-section-number">3</span> Registration and data management</h2>
 <ul>
 <li><p>How to create a custom registration form — field types, validation rules, conditional logic, multi-language support</p></li>
 <li><p>How to edit a beneficiary record — update biographical data, re-enrol biometrics, audit trail</p></li>
@@ -192,21 +558,21 @@ ul.task-list li input[type="checkbox"] {
 <li><p>How to bulk import beneficiary data — CSV/Excel import, field mapping, validation errors, dry-run mode</p></li>
 </ul>
 </section>
-<section id="deduplication" class="level2">
-<h2 class="anchored" data-anchor-id="deduplication">Deduplication</h2>
+<section id="deduplication" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="deduplication"><span class="header-section-number">4</span> Deduplication</h2>
 <ul>
 <li><p>How do do biometric deduplication and adjudication</p></li>
 <li><p>How to do field-based deduplication and adjudication</p></li>
 </ul>
 </section>
-<section id="biometrc-record-checking" class="level2">
-<h2 class="anchored" data-anchor-id="biometrc-record-checking">Biometrc Record Checking</h2>
+<section id="biometrc-record-checking" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="biometrc-record-checking"><span class="header-section-number">5</span> Biometrc Record Checking</h2>
 <ul>
 <li>How to do a biometric record check</li>
 </ul>
 </section>
-<section id="device-management" class="level2">
-<h2 class="anchored" data-anchor-id="device-management">Device Management</h2>
+<section id="device-management" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="device-management"><span class="header-section-number">6</span> Device Management</h2>
 <ul>
 <li>How to install BRaVe</li>
 </ul>
