@@ -8,35 +8,46 @@ This is the technical documentation site for BraVe, an open-source tool for huma
 
 ## How to use this portal
 
-To understand how to get up and running with BRaVe, and it's hardware requirements and device compatibility, go to the [Getting Started](/gettingstarted.html) section.
+The quickest way to get started is to read through the Setup guide in the [How-To section](https://docs.brave.iom.int/howto/#setup).
 
-The how-to guides, tutorials and technical reference material are available in the [Documentation](/documentation.html) page.
+The Tutorial and Reference sections are still in-progress.
+
 This content and layout of this site are inspired by the Diataxis approach, a framework for technical writing.
 
 ![](images/diataxis.webp)
 
-## Feature Roadmap
-
-BRaVe is in active development, is currently undergoing testing, with an initial open-source release planned for April 2026.
 
 ## History of BRaVe
 
-The first version of BRaVe, a fully static desktop-based version, was launched in 2014 and has seen continued use since then. More recently a mobile version, internally referred to as BRaVe 2, was piloted. In 2025, development began in BRaVe 3, a comprehensive rearchitecturing and rebuild of the system, replacing both version 2 and 3.
+The first version of BRaVe, a fully static desktop-based version, was launched in 2014 and has seen continued use since then. More recently a mobile version, internally referred to as BRaVe 2, was piloted in Somalia and a number of countries. In August 2025, development began on BRaVe 3, a comprehensive rearchitecturing and rebuild of the system, replacing both version 2 and 3, with a subsequent launch in 2026. The first open source release of BRaVE was in June 2026.
 
-## Useful Links
+## Feature Roadmap
 
-{{< lipsum 1 >}}
+The feature roadmap for 2026 and 2027 is currently in development.
 
 ## License
 
-{{< lipsum 1 >}}
+BRaVe 3 is released under the open-source [GNU Affero General Public License version 3](https://opensource.org/license/agpl-3-0).
 
 ## Contributing
 
-{{< lipsum 1 >}}
+Bug reports and feedback on the tool are welcome. Feel free to fork the project or sumbit pull requests for the code on [Github](https://github.com/bravesystem).
+
+## Useful Links
+
+- [BRaVe landing page](https://brave.iom.int/)
+- [BRaVe documentation portal](https://brave.iom.int/)
+- [BRaVe Hosted service (testing)](https://testportal.brave.iom.int/)
+- [BRaVe Hosted service (production)](https://portal.brave.iom.int/)
+- [BRaVe code on Github](https://github.com/bravesystem)
+- [IOM's IDP Registration Community of Practice(internal)](https://iomint.sharepoint.com/teams/Registration)
+
 
 ## Contact
 
-Still haven't found what you're looking for? Contact [IDPRegistrationSupport@iom.int](mailto://IDPRegistrationSupport@iom.int).
+Still haven't found what you're looking for? 
+Contact [IDPRegistrationSupport@iom.int](mailto://IDPRegistrationSupport@iom.int).
 
-![](images/Logo with IOM - bluebg.png)
+
+![](images/IOM-logo.png){width=250}
+![](images/ECHO-logo-blue.png){width=300}
