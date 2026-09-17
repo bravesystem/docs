@@ -495,6 +495,140 @@ Every record imported from another system arrives without fingerprints, and some
 
 - *Monitoring distributions*
 
+
 ## Device Management
+
+
+### How to load the Neurotechnology license [MOBILE]{.badge-mobile}
+
+1. Using a laptop, USB cable, Bluetooth, or file transfer method, copy the **two Neurotechnology license files** into the Licenses folder. Navigate to the device storage and create the following folder path if it does not already exist:
+
+   `/Neurotechnology/Licenses`
+
+2. Log in to the BRaVe app using a **Supervisor Enumerator** account.
+
+3. On the dashboard, tap the **three dots** in the top-right corner.
+
+::: {.columns}
+
+::: {.column width="50%"}
+![Tap the three dots on the dashboard.](images/32-neurotech-dashboard-menu.jpg){#fig-neurotech-menu width=75%}
+:::
+
+::: {.column width="50%"}
+![Select Activation from the dashboard menu.](images/33-neurotech-activation-menu.jpg){#fig-neurotech-activation-menu width=75%}
+:::
+
+:::
+
+4. Select **Activation**.
+
+5. Next to **License Server**, tap **Activate**.
+
+6. A folder browser will open. Navigate to the device storage and select the folder:
+
+   `/Neurotechnology/Licenses`
+
+7. If the licenses are valid, they will automatically be loaded.
+
+8. Under **Licensing**, disable **Use Trial Mode**.
+
+9. Restart the application.
+
+10. Once activation is successful, the product will be activated and ready for use.
+
+### Guidelines before uninstalling BRaVe Mobile App [MOBILE]{.badge-mobile}
+
+If you need to completely uninstall the application (hard uninstall) or clear app data:
+
+1. Open the app first and check the **BRaVe version**.
+
+::: {.columns}
+
+::: {.column width="33%"}
+![Check the BRaVe app version.](images/34-brave-version.jpg){#fig-brave-version width=70%}
+:::
+
+::: {.column width="33%"}
+![Tap the three dots on the dashboard.](images/32-neurotech-dashboard-menu.jpg){#fig-neurotech-menu-2 width=70%}
+:::
+
+::: {.column width="33%"}
+![Tap Activation.](images/33-neurotech-activation-menu.jpg){#fig-neurotech-activation-menu-2 width=70%}
+:::
+
+:::
+
+2. Log in using a **Supervisor Enumerator** account.
+
+3. On the dashboard, tap the **three dots** in the top-right corner.
+
+4. Tap **Activation** on the drop-down menu.
+
+5. Go to the **Activation** tab where you should see a list of active licenses.
+
+6. Select the license and click **Deactivate**.
+
+::: {.columns}
+
+::: {.column width="50%"}
+![Deactivate the Neurotechnology license.](images/35-neurotech-deactivate.jpg){#fig-neurotech-deactivate width=75%}
+:::
+
+::: {.column width="50%"}
+![Uninstall the BRaVe app.](images/36-brave-uninstall.jpg){#fig-brave-uninstall width=75%}
+:::
+
+:::
+
+7. Exit and close the BRaVe app.
+
+8. Uninstall the BRaVe app. Press and hold the BRaVe app icon and select **Uninstall**.
+
+::: {.callout-warning title="Important"}
+
+Failure to deactivate the license before uninstalling may result in the license remaining locked to the previous installation or device state. This will corrupt the license and need Neurotechnology to fix it.
+
+:::
+
+### How to reactivate the BRaVe Mobile App license [MOBILE]{.badge-mobile}
+
+1. Install the new version of BRaVe on the mobile device.
+
+   a. Using a laptop, USB cable, Bluetooth, or file transfer method to copy the BRaVe app to the mobile device.
+
+2. In case prompted, activate the device using the **claim code**.
+
+3. Log in using the **Supervisor Enumerator** account.
+
+4. On the dashboard, tap the **three dots** in the top-right corner.
+
+5. Select **Activation**.
+
+6. Next to **License Server**, tap **Activate**.
+
+![Tap Activate under the Activation tab.](images/37-neurotech-activate.jpg){#fig-neurotech-activate width=45%}
+
+7. Navigate to:
+
+   `/Neurotechnology/Licenses`
+
+8. Select the folder containing the license files and tap **Activate**.
+
+9. Under the **Licensing Server** tab, uncheck **Use Trial Mode**.
+
+![Under Licensing Server, uncheck "Use Trial Mode".](images/38-neurotech-trial-mode.jpg){#fig-neurotech-trial-mode width=45%}
+
+10. Once activation is successful, restart the app. The product will be activated and ready for use.
+
+### License Tracking
+
+Licenses issued need to be tracked through a **common document**. This is to ensure licenses are not re-issued and to efficiently track license issuance.
+
+### Activation Error
+
+If the licenses are corrupt, trying to activate them will generate the error below.
+
+![License activation error.](images/39-neurotech-activation-error.png){#fig-neurotech-error width=55%}
 
 - *How to install BRaVe*
